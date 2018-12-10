@@ -1,0 +1,15 @@
+get(a)
+get(b)
+put(c)
+c := a:b
+put($b = ) 
+put(c) 
+finish
+
+
+get(a)
+put(b)
+put($a = )
+put(a)
+finish
+put(l)
